@@ -1,5 +1,3 @@
-Test test
-
 Fuzzing
 
 | Project | Year | Repo | Duration | Throphy |
