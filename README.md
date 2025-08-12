@@ -1,5 +1,3 @@
-Fuzzing
-
 | Project | Year | Repo | Duration | Trophy |
 |:-------- |:---- |:------ |:------ |:------ |
 | AllBridge Core Yield | 2025 | [allbridge-core-yield-fuzz](https://github.com/pyk/allbridge-core-yield-fuzz) | 3d | 0 H / 0 M |
